@@ -1,8 +1,8 @@
-# ea-HiLo
+# EA-HiLo
 
 
 
-## Projeto em andamento 
+## Project in progress
 
 
 
