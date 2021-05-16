@@ -27,3 +27,8 @@
 
 ###### MQL4 e MQL5 são linguagens de programação integradas projetadas para o desenvolvimento de robôs de negociação, indicadores técnicos, scripts e bibliotecas de funções dentro do programa MetaTrader. Tecnologias voltadas para mercado financeiro. 
 
+### FASE ATUAL DO PROJETO
+###### Encontra-se ainda com erros de execução da entrada e saída, vou trabalhando nele aos poucos pela falta de tempo! 
+
+### Atenção !
+###### não utilize ainda esse EA em real account, isso jamais será uma recomendação de investimento, apenas fins educativos.
