@@ -1,28 +1,29 @@
-# EA-HiLo
+# ea-HiLo
 
 
 
-## Project in progress
+## Projeto em andamento 
 
 
 
 ### Descrição
 
 - v.1.0
-- EA based on the HiLo indicator
-- Buying at the close of the candle above the HiLo (9 SMA periods)
-- Selling at the close of the candle below the HiLo (9 SMA periods)
-- Purchase exit at the close of the candlestick below the HiLo de Minimum
-- Sale Exit at the close of the HiLo bullish high candlestick
+- EA baseado no indicador HiLo
+- Compra no fechamento do candle acima do HiLo(9períodos SMA)
+- Venda no fechamento do candle abaixo do HiLo(9períodos SMA)
+- Saída da compra no fechamento do candle abaixo do HiLo de Mínima
+- Saída da Venda no fechamento do candle de alta do HiLo de máxima
+
+
+
+## Linguagem
+
+#### Atenção ! esse projeto é 100% voltado para MQL4
 
 
 
 ## METAQUOTES LANGUAGE MQL4/MQL5
 
-###### MQL4 and MQL5 are integrated programming languages designed for the development of trading robots, technical indicators, scripts and function libraries within the MetaTrader program. Technologies aimed at the financial market. 
+###### MQL4 e MQL5 são linguagens de programação integradas projetadas para o desenvolvimento de robôs de negociação, indicadores técnicos, scripts e bibliotecas de funções dentro do programa MetaTrader. Tecnologias voltadas para mercado financeiro. 
 
-### CURRENT PROJECT PHASE
-###### It still has errors in the execution of the entry and exit, I work on it little by little because of the lack of time!
-
-### Attention !
-###### do not use this EA in real account yet, it will never be an investment recommendation, only for educational purposes.
